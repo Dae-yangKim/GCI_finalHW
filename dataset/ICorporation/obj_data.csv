@@ -1,0 +1,1471 @@
+,BusinessTravel,Department,EducationField,Gender,JobRole,MaritalStatus,OverTime,HowToEmploy
+0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,intern
+1,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,intern
+2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,agent_A
+3,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+4,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+5,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+6,Travel_Frequently,Sales,Technical Degree,Female,Sales Representative,Single,Yes,direct_recruting
+7,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,agent_A
+8,Travel_Frequently,Human Resources,Life Sciences,Female,Human Resources,Divorced,Yes,agent_A
+9,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+10,Travel_Rarely,Sales,Medical,Male,Sales Representative,Married,No,agent_A
+11,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Single,No,New_graduate_recruitment
+12,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,agent_A
+13,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+14,Non-Travel,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+15,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,agent_A
+16,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,direct_recruting
+17,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+18,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,New_graduate_recruitment
+19,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+20,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+21,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+22,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+23,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+24,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+25,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+26,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,New_graduate_recruitment
+27,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+28,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,New_graduate_recruitment
+29,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,New_graduate_recruitment
+30,Travel_Rarely,Human Resources,Medical,Female,Human Resources,Married,Yes,New_graduate_recruitment
+31,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,New_graduate_recruitment
+32,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,New_graduate_recruitment
+33,Travel_Rarely,Sales,Medical,Male,Sales Representative,Single,Yes,agent_A
+34,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,Yes,agent_B
+35,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,agent_B
+36,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Divorced,No,agent_B
+37,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,agent_B
+38,Travel_Frequently,Sales,Medical,Male,Sales Representative,Married,No,agent_B
+39,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,agent_B
+40,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,agent_B
+41,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,agent_B
+42,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,agent_B
+43,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_C
+44,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,agent_C
+45,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,agent_C
+46,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,agent_C
+47,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,agent_C
+48,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,agent_C
+49,Travel_Frequently,Human Resources,Human Resources,Female,Human Resources,Married,No,agent_C
+50,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Divorced,No,agent_C
+51,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,agent_C
+52,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,agent_C
+53,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,agent_C
+54,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,agent_C
+55,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,New_graduate_recruitment
+56,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Single,No,agent_B
+57,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Married,No,intern
+58,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+59,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,agent_A
+60,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,agent_A
+61,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+62,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,agent_A
+63,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+64,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+65,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+66,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,agent_A
+67,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+68,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,No,New_graduate_recruitment
+69,Travel_Frequently,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+70,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+71,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+72,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,agent_A
+73,Travel_Frequently,Research & Development,Life Sciences,Female,Manager,Married,No,New_graduate_recruitment
+74,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+75,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+76,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,direct_recruting
+77,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Single,No,New_graduate_recruitment
+78,Non-Travel,Sales,Other,Female,Sales Executive,Married,No,New_graduate_recruitment
+79,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+80,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,Yes,New_graduate_recruitment
+81,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,New_graduate_recruitment
+82,Non-Travel,Research & Development,Life Sciences,Female,Healthcare Representative,Divorced,No,New_graduate_recruitment
+83,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,New_graduate_recruitment
+84,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,agent_A
+85,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,New_graduate_recruitment
+86,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+87,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Divorced,Yes,New_graduate_recruitment
+88,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+89,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+90,Travel_Rarely,Sales,Other,Male,Sales Executive,Divorced,No,direct_recruting
+91,Non-Travel,Sales,Life Sciences,Male,Manager,Single,No,agent_A
+92,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+93,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+94,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+95,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+96,Non-Travel,Sales,Marketing,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+97,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,New_graduate_recruitment
+98,Travel_Frequently,Human Resources,Life Sciences,Male,Human Resources,Married,No,New_graduate_recruitment
+99,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+100,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+101,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Single,No,New_graduate_recruitment
+102,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+103,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,New_graduate_recruitment
+104,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,agent_A
+105,Travel_Frequently,Sales,Technical Degree,Female,Sales Executive,Single,No,New_graduate_recruitment
+106,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+107,Travel_Frequently,Human Resources,Human Resources,Male,Human Resources,Married,No,New_graduate_recruitment
+108,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,direct_recruting
+109,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,agent_A
+110,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,New_graduate_recruitment
+111,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,agent_A
+112,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+113,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,agent_A
+114,Travel_Rarely,Research & Development,Other,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+115,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+116,Travel_Rarely,Research & Development,Other,Female,Manufacturing Director,Married,Yes,New_graduate_recruitment
+117,Travel_Rarely,Sales,Medical,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+118,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,Yes,agent_A
+119,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+120,Travel_Frequently,Human Resources,Other,Male,Human Resources,Married,Yes,New_graduate_recruitment
+121,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+122,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Divorced,No,agent_B
+123,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,agent_B
+124,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,Yes,agent_B
+125,Non-Travel,Sales,Medical,Male,Sales Executive,Single,Yes,agent_B
+126,Travel_Frequently,Sales,Life Sciences,Female,Sales Representative,Single,Yes,agent_B
+127,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Married,Yes,agent_B
+128,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,agent_B
+129,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,agent_B
+130,Travel_Frequently,Sales,Medical,Female,Sales Executive,Married,No,agent_B
+131,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,agent_B
+132,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Divorced,No,agent_B
+133,Non-Travel,Sales,Medical,Male,Sales Executive,Divorced,No,agent_B
+134,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,agent_B
+135,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,agent_B
+136,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_B
+137,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,agent_B
+138,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,agent_B
+139,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,agent_C
+140,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,Yes,agent_C
+141,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Single,No,agent_C
+142,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_C
+143,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,agent_C
+144,Non-Travel,Research & Development,Medical,Female,Research Scientist,Divorced,Yes,agent_C
+145,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,agent_C
+146,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,agent_C
+147,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,agent_C
+148,Travel_Frequently,Research & Development,Other,Female,Healthcare Representative,Married,Yes,agent_C
+149,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,Yes,agent_C
+150,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,agent_C
+151,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,agent_C
+152,Travel_Rarely,Sales,Medical,Male,Sales Representative,Single,No,agent_C
+153,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,agent_C
+154,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,agent_C
+155,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,agent_C
+156,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_C
+157,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,agent_C
+158,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Single,No,agent_C
+159,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,agent_C
+160,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,agent_C
+161,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_C
+162,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,agent_C
+163,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,agent_C
+164,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,No,agent_C
+165,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,intern
+166,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,intern
+167,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,Yes,intern
+168,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Divorced,Yes,intern
+169,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,intern
+170,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,intern
+171,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+172,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+173,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+174,Travel_Rarely,Research & Development,Technical Degree,Male,Manager,Married,No,New_graduate_recruitment
+175,Travel_Rarely,Research & Development,Other,Male,Manager,Married,No,New_graduate_recruitment
+176,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,Yes,New_graduate_recruitment
+177,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,New_graduate_recruitment
+178,Travel_Rarely,Human Resources,Technical Degree,Male,Human Resources,Divorced,Yes,New_graduate_recruitment
+179,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,No,agent_A
+180,Travel_Frequently,Research & Development,Technical Degree,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+181,Travel_Frequently,Research & Development,Medical,Female,Healthcare Representative,Married,No,direct_recruting
+182,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Married,No,New_graduate_recruitment
+183,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Single,No,New_graduate_recruitment
+184,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Single,No,direct_recruting
+185,Travel_Rarely,Research & Development,Other,Female,Manager,Married,Yes,New_graduate_recruitment
+186,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+187,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,New_graduate_recruitment
+188,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,agent_A
+189,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+190,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+191,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,New_graduate_recruitment
+192,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+193,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+194,Non-Travel,Research & Development,Other,Male,Laboratory Technician,Divorced,No,agent_A
+195,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+196,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+197,Non-Travel,Research & Development,Medical,Male,Research Director,Divorced,No,New_graduate_recruitment
+198,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+199,Travel_Frequently,Human Resources,Human Resources,Male,Human Resources,Married,Yes,direct_recruting
+200,Travel_Frequently,Sales,Medical,Female,Sales Representative,Married,Yes,New_graduate_recruitment
+201,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+202,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Single,No,New_graduate_recruitment
+203,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+204,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Divorced,No,New_graduate_recruitment
+205,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,New_graduate_recruitment
+206,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,agent_A
+207,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,agent_B
+208,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,agent_B
+209,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,agent_B
+210,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,agent_B
+211,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,agent_B
+212,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,agent_B
+213,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,agent_B
+214,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,agent_B
+215,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,agent_B
+216,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_C
+217,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,agent_C
+218,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Married,No,agent_C
+219,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Single,No,agent_C
+220,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,agent_C
+221,Travel_Rarely,Research & Development,Other,Male,Healthcare Representative,Married,Yes,agent_C
+222,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,agent_C
+223,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,agent_C
+224,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Divorced,No,agent_C
+225,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,intern
+226,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,intern
+227,Travel_Rarely,Human Resources,Life Sciences,Female,Manager,Married,No,intern
+228,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,intern
+229,Travel_Rarely,Research & Development,Other,Female,Manager,Divorced,No,New_graduate_recruitment
+230,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+231,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,New_graduate_recruitment
+232,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+233,Travel_Rarely,Sales,Medical,Female,Manager,Divorced,No,New_graduate_recruitment
+234,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+235,Travel_Frequently,Research & Development,Life Sciences,Female,Research Director,Single,Yes,agent_A
+236,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+237,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,New_graduate_recruitment
+238,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+239,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,direct_recruting
+240,Travel_Frequently,Human Resources,Medical,Male,Manager,Married,No,New_graduate_recruitment
+241,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+242,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,agent_A
+243,Non-Travel,Research & Development,Life Sciences,Male,Manager,Divorced,No,New_graduate_recruitment
+244,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Married,No,agent_A
+245,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,Yes,New_graduate_recruitment
+246,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,Yes,New_graduate_recruitment
+247,Travel_Rarely,Human Resources,Life Sciences,Male,Manager,Divorced,Yes,New_graduate_recruitment
+248,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+249,Travel_Rarely,Research & Development,Technical Degree,Female,Manager,Married,No,New_graduate_recruitment
+250,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,agent_A
+251,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+252,Travel_Rarely,Research & Development,Other,Female,Laboratory Technician,Married,No,agent_B
+253,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,agent_B
+254,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,No,agent_C
+255,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,agent_C
+256,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,agent_C
+257,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,intern
+258,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,intern
+259,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,Yes,intern
+260,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,intern
+261,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,intern
+262,Travel_Frequently,Sales,Medical,Female,Sales Representative,Single,Yes,agent_C
+263,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+264,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+265,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+266,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,New_graduate_recruitment
+267,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+268,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+269,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+270,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,intern
+271,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Divorced,Yes,intern
+272,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+273,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,Yes,New_graduate_recruitment
+274,Travel_Frequently,Research & Development,Life Sciences,Male,Manager,Divorced,Yes,New_graduate_recruitment
+275,Travel_Frequently,Sales,Medical,Female,Sales Representative,Married,No,New_graduate_recruitment
+276,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,New_graduate_recruitment
+277,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+278,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Single,No,New_graduate_recruitment
+279,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,agent_A
+280,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,New_graduate_recruitment
+281,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,New_graduate_recruitment
+282,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+283,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+284,Travel_Rarely,Sales,Life Sciences,Female,Manager,Single,Yes,agent_A
+285,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Divorced,No,New_graduate_recruitment
+286,Travel_Frequently,Sales,Life Sciences,Male,Sales Representative,Married,No,New_graduate_recruitment
+287,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+288,Travel_Rarely,Research & Development,Medical,Female,Manager,Divorced,Yes,New_graduate_recruitment
+289,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,direct_recruting
+290,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,New_graduate_recruitment
+291,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,No,New_graduate_recruitment
+292,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,New_graduate_recruitment
+293,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+294,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+295,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+296,Travel_Frequently,Sales,Marketing,Male,Sales Representative,Married,No,agent_A
+297,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,New_graduate_recruitment
+298,Travel_Frequently,Human Resources,Human Resources,Male,Human Resources,Single,No,intern
+299,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,New_graduate_recruitment
+300,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+301,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,intern
+302,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,No,New_graduate_recruitment
+303,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_A
+304,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Single,No,New_graduate_recruitment
+305,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+306,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+307,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,Yes,agent_C
+308,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+309,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+310,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+311,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,New_graduate_recruitment
+312,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,agent_A
+313,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+314,Travel_Frequently,Human Resources,Human Resources,Female,Human Resources,Divorced,Yes,New_graduate_recruitment
+315,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,Yes,agent_C
+316,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,No,New_graduate_recruitment
+317,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Single,No,agent_A
+318,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Single,No,intern
+319,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+320,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,agent_A
+321,Non-Travel,Research & Development,Life Sciences,Female,Research Director,Divorced,No,New_graduate_recruitment
+322,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+323,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+324,Travel_Rarely,Human Resources,Life Sciences,Male,Human Resources,Divorced,No,New_graduate_recruitment
+325,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,agent_A
+326,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+327,Non-Travel,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,agent_A
+328,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,agent_B
+329,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+330,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,direct_recruting
+331,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,intern
+332,Travel_Rarely,Sales,Other,Male,Sales Executive,Single,No,New_graduate_recruitment
+333,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+334,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_A
+335,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+336,Travel_Rarely,Research & Development,Medical,Male,Manager,Single,No,New_graduate_recruitment
+337,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+338,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+339,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+340,Travel_Rarely,Sales,Technical Degree,Male,Manager,Married,Yes,intern
+341,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Divorced,No,New_graduate_recruitment
+342,Travel_Rarely,Sales,Technical Degree,Female,Sales Representative,Divorced,Yes,New_graduate_recruitment
+343,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+344,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,agent_A
+345,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+346,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,Yes,New_graduate_recruitment
+347,Travel_Rarely,Human Resources,Medical,Female,Human Resources,Single,No,New_graduate_recruitment
+348,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Divorced,No,direct_recruting
+349,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,New_graduate_recruitment
+350,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,Yes,New_graduate_recruitment
+351,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+352,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+353,Travel_Frequently,Human Resources,Medical,Male,Human Resources,Married,No,New_graduate_recruitment
+354,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+355,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+356,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+357,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+358,Travel_Rarely,Research & Development,Medical,Female,Research Director,Married,No,agent_A
+359,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+360,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,Yes,intern
+361,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+362,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,agent_A
+363,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+364,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+365,Travel_Frequently,Research & Development,Technical Degree,Female,Healthcare Representative,Single,No,New_graduate_recruitment
+366,Non-Travel,Sales,Medical,Female,Sales Executive,Single,No,New_graduate_recruitment
+367,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+368,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,direct_recruting
+369,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,Yes,agent_C
+370,Travel_Rarely,Research & Development,Other,Male,Manager,Single,No,New_graduate_recruitment
+371,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,agent_A
+372,Travel_Frequently,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+373,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+374,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,Yes,agent_C
+375,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+376,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Single,Yes,New_graduate_recruitment
+377,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,agent_C
+378,Travel_Frequently,Sales,Medical,Female,Sales Executive,Married,No,intern
+379,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,agent_A
+380,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,New_graduate_recruitment
+381,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,intern
+382,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,direct_recruting
+383,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,agent_C
+384,Travel_Frequently,Research & Development,Medical,Male,Research Director,Divorced,No,New_graduate_recruitment
+385,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,intern
+386,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Single,No,intern
+387,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Single,No,New_graduate_recruitment
+388,Non-Travel,Sales,Marketing,Female,Sales Executive,Married,No,agent_A
+389,Travel_Frequently,Research & Development,Medical,Male,Manager,Married,No,agent_A
+390,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+391,Travel_Rarely,Research & Development,Medical,Male,Manager,Single,Yes,New_graduate_recruitment
+392,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_A
+393,Travel_Rarely,Human Resources,Human Resources,Male,Manager,Married,Yes,New_graduate_recruitment
+394,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,agent_B
+395,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,agent_A
+396,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,agent_A
+397,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,New_graduate_recruitment
+398,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,No,New_graduate_recruitment
+399,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+400,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+401,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Single,No,agent_A
+402,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+403,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+404,Travel_Frequently,Research & Development,Other,Male,Research Scientist,Married,No,New_graduate_recruitment
+405,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+406,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,New_graduate_recruitment
+407,Travel_Rarely,Research & Development,Other,Male,Research Director,Divorced,Yes,intern
+408,Travel_Frequently,Research & Development,Life Sciences,Female,Research Director,Married,Yes,New_graduate_recruitment
+409,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,New_graduate_recruitment
+410,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,Yes,direct_recruting
+411,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+412,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_A
+413,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,agent_A
+414,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+415,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_A
+416,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+417,Travel_Rarely,Research & Development,Medical,Female,Research Director,Divorced,Yes,agent_A
+418,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Married,Yes,agent_C
+419,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,direct_recruting
+420,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,intern
+421,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,agent_A
+422,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+423,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,New_graduate_recruitment
+424,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,agent_A
+425,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,agent_C
+426,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+427,Travel_Rarely,Sales,Medical,Female,Sales Representative,Married,No,New_graduate_recruitment
+428,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+429,Travel_Frequently,Research & Development,Medical,Female,Manager,Divorced,No,New_graduate_recruitment
+430,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+431,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+432,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,agent_C
+433,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,agent_A
+434,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,intern
+435,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,Yes,New_graduate_recruitment
+436,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,direct_recruting
+437,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,agent_C
+438,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+439,Non-Travel,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+440,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+441,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Divorced,No,New_graduate_recruitment
+442,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+443,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+444,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,No,New_graduate_recruitment
+445,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+446,Travel_Frequently,Research & Development,Medical,Male,Manufacturing Director,Divorced,Yes,agent_C
+447,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,agent_A
+448,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Single,No,New_graduate_recruitment
+449,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+450,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,Yes,agent_B
+451,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,agent_A
+452,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,No,intern
+453,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Married,No,New_graduate_recruitment
+454,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,agent_A
+455,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,Yes,New_graduate_recruitment
+456,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,New_graduate_recruitment
+457,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,intern
+458,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,agent_C
+459,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,New_graduate_recruitment
+460,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+461,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,direct_recruting
+462,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+463,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+464,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+465,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,Yes,intern
+466,Travel_Rarely,Sales,Medical,Female,Sales Representative,Married,No,New_graduate_recruitment
+467,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+468,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+469,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,Yes,New_graduate_recruitment
+470,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,agent_A
+471,Travel_Frequently,Sales,Technical Degree,Female,Sales Representative,Single,No,agent_B
+472,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+473,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,intern
+474,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,agent_A
+475,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+476,Travel_Rarely,Research & Development,Technical Degree,Male,Research Director,Divorced,Yes,New_graduate_recruitment
+477,Travel_Rarely,Human Resources,Technical Degree,Male,Human Resources,Single,No,agent_B
+478,Non-Travel,Sales,Medical,Male,Sales Representative,Single,No,agent_C
+479,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,agent_A
+480,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+481,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+482,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,agent_A
+483,Travel_Rarely,Sales,Marketing,Male,Manager,Married,Yes,New_graduate_recruitment
+484,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+485,Non-Travel,Sales,Life Sciences,Male,Sales Representative,Divorced,No,New_graduate_recruitment
+486,Non-Travel,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,agent_A
+487,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,No,agent_A
+488,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+489,Travel_Rarely,Sales,Medical,Female,Sales Representative,Single,No,direct_recruting
+490,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+491,Travel_Frequently,Research & Development,Medical,Female,Healthcare Representative,Married,No,agent_A
+492,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,agent_A
+493,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+494,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,intern
+495,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,agent_B
+496,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Single,No,New_graduate_recruitment
+497,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+498,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,agent_B
+499,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,Yes,New_graduate_recruitment
+500,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_C
+501,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+502,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,agent_C
+503,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Divorced,No,intern
+504,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,agent_C
+505,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,agent_A
+506,Travel_Rarely,Human Resources,Other,Male,Human Resources,Single,No,direct_recruting
+507,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+508,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+509,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,intern
+510,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,New_graduate_recruitment
+511,Non-Travel,Research & Development,Life Sciences,Male,Manager,Single,No,New_graduate_recruitment
+512,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,agent_B
+513,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Single,Yes,agent_C
+514,Travel_Frequently,Sales,Life Sciences,Male,Sales Representative,Married,No,New_graduate_recruitment
+515,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,New_graduate_recruitment
+516,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,agent_C
+517,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_C
+518,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,No,intern
+519,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+520,Travel_Rarely,Human Resources,Other,Male,Human Resources,Divorced,No,New_graduate_recruitment
+521,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,intern
+522,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Divorced,No,New_graduate_recruitment
+523,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,New_graduate_recruitment
+524,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,intern
+525,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+526,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+527,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,intern
+528,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Married,No,New_graduate_recruitment
+529,Travel_Frequently,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+530,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,agent_B
+531,Travel_Frequently,Sales,Medical,Male,Sales Executive,Single,No,New_graduate_recruitment
+532,Travel_Frequently,Research & Development,Other,Female,Healthcare Representative,Single,Yes,New_graduate_recruitment
+533,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+534,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+535,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,direct_recruting
+536,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+537,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Single,Yes,intern
+538,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Single,No,agent_A
+539,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+540,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,agent_C
+541,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,agent_B
+542,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Married,Yes,agent_B
+543,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,agent_C
+544,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+545,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,agent_C
+546,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+547,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+548,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Single,Yes,New_graduate_recruitment
+549,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,agent_B
+550,Non-Travel,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+551,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,agent_C
+552,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_C
+553,Non-Travel,Sales,Medical,Female,Sales Executive,Single,No,New_graduate_recruitment
+554,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,Yes,New_graduate_recruitment
+555,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+556,Non-Travel,Human Resources,Human Resources,Male,Human Resources,Divorced,No,New_graduate_recruitment
+557,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,intern
+558,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+559,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,New_graduate_recruitment
+560,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+561,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,agent_C
+562,Non-Travel,Sales,Life Sciences,Female,Sales Representative,Married,No,New_graduate_recruitment
+563,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,direct_recruting
+564,Non-Travel,Human Resources,Human Resources,Female,Manager,Single,Yes,New_graduate_recruitment
+565,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,agent_A
+566,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Divorced,Yes,New_graduate_recruitment
+567,Travel_Frequently,Research & Development,Medical,Female,Manager,Divorced,No,intern
+568,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,New_graduate_recruitment
+569,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Single,No,agent_B
+570,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,New_graduate_recruitment
+571,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,New_graduate_recruitment
+572,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+573,Travel_Frequently,Sales,Medical,Female,Sales Executive,Divorced,Yes,intern
+574,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+575,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,New_graduate_recruitment
+576,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+577,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,agent_B
+578,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+579,Travel_Frequently,Sales,Other,Male,Sales Executive,Single,No,New_graduate_recruitment
+580,Non-Travel,Research & Development,Technical Degree,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+581,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,agent_B
+582,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Married,No,New_graduate_recruitment
+583,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,intern
+584,Travel_Rarely,Sales,Technical Degree,Female,Manager,Married,Yes,New_graduate_recruitment
+585,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,agent_A
+586,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_B
+587,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+588,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Single,No,agent_C
+589,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Divorced,Yes,agent_C
+590,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_C
+591,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_C
+592,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,New_graduate_recruitment
+593,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,agent_C
+594,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,agent_B
+595,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+596,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+597,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,intern
+598,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+599,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,intern
+600,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,New_graduate_recruitment
+601,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,agent_C
+602,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,agent_C
+603,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+604,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,agent_C
+605,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+606,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+607,Travel_Rarely,Research & Development,Technical Degree,Female,Manager,Divorced,No,New_graduate_recruitment
+608,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,New_graduate_recruitment
+609,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Divorced,Yes,New_graduate_recruitment
+610,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,agent_A
+611,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,agent_C
+612,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,intern
+613,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+614,Travel_Rarely,Research & Development,Other,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+615,Non-Travel,Sales,Medical,Male,Sales Executive,Single,No,New_graduate_recruitment
+616,Non-Travel,Research & Development,Life Sciences,Male,Manager,Married,Yes,New_graduate_recruitment
+617,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Divorced,No,New_graduate_recruitment
+618,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,direct_recruting
+619,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_B
+620,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Single,No,agent_A
+621,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Divorced,No,intern
+622,Non-Travel,Sales,Marketing,Male,Sales Executive,Single,Yes,agent_B
+623,Travel_Frequently,Sales,Marketing,Male,Sales Representative,Single,Yes,agent_C
+624,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+625,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,agent_A
+626,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,New_graduate_recruitment
+627,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+628,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,agent_C
+629,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+630,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+631,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+632,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,intern
+633,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,New_graduate_recruitment
+634,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,agent_B
+635,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+636,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,New_graduate_recruitment
+637,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,agent_B
+638,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,intern
+639,Travel_Rarely,Human Resources,Human Resources,Male,Manager,Married,No,New_graduate_recruitment
+640,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+641,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,New_graduate_recruitment
+642,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+643,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+644,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,agent_C
+645,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,intern
+646,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,New_graduate_recruitment
+647,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+648,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,agent_C
+649,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,agent_B
+650,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+651,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,New_graduate_recruitment
+652,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+653,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,agent_C
+654,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+655,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,New_graduate_recruitment
+656,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+657,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,Yes,agent_A
+658,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+659,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,Yes,agent_C
+660,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,agent_B
+661,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,agent_C
+662,Travel_Rarely,Sales,Other,Male,Sales Representative,Single,Yes,agent_A
+663,Non-Travel,Sales,Technical Degree,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+664,Travel_Rarely,Sales,Marketing,Female,Manager,Single,No,New_graduate_recruitment
+665,Travel_Frequently,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+666,Non-Travel,Sales,Other,Male,Sales Executive,Married,No,intern
+667,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+668,Travel_Rarely,Research & Development,Technical Degree,Female,Laboratory Technician,Divorced,Yes,agent_C
+669,Travel_Rarely,Sales,Medical,Male,Manager,Divorced,No,New_graduate_recruitment
+670,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,agent_C
+671,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+672,Non-Travel,Sales,Life Sciences,Female,Sales Representative,Divorced,No,New_graduate_recruitment
+673,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Single,No,New_graduate_recruitment
+674,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,agent_A
+675,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,agent_B
+676,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,New_graduate_recruitment
+677,Travel_Rarely,Human Resources,Life Sciences,Male,Human Resources,Single,No,New_graduate_recruitment
+678,Travel_Rarely,Research & Development,Technical Degree,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+679,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,intern
+680,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+681,Non-Travel,Research & Development,Other,Female,Healthcare Representative,Single,Yes,agent_C
+682,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+683,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,agent_B
+684,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,New_graduate_recruitment
+685,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+686,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,Yes,New_graduate_recruitment
+687,Travel_Rarely,Research & Development,Other,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+688,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+689,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,New_graduate_recruitment
+690,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Divorced,No,agent_C
+691,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+692,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,agent_B
+693,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Single,Yes,New_graduate_recruitment
+694,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+695,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,New_graduate_recruitment
+696,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+697,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+698,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Married,No,agent_C
+699,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,agent_A
+700,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,Yes,agent_B
+701,Non-Travel,Research & Development,Medical,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+702,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+703,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+704,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+705,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,agent_A
+706,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,agent_B
+707,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+708,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,agent_C
+709,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+710,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+711,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+712,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,Yes,New_graduate_recruitment
+713,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,agent_B
+714,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+715,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_C
+716,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+717,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+718,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,agent_A
+719,Travel_Rarely,Sales,Medical,Female,Sales Representative,Single,No,New_graduate_recruitment
+720,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,agent_A
+721,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+722,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+723,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,agent_C
+724,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+725,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_B
+726,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,agent_B
+727,Non-Travel,Sales,Medical,Male,Sales Executive,Single,No,agent_B
+728,Travel_Frequently,Sales,Life Sciences,Female,Sales Representative,Single,No,New_graduate_recruitment
+729,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+730,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,direct_recruting
+731,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+732,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,No,New_graduate_recruitment
+733,Non-Travel,Research & Development,Medical,Male,Research Scientist,Married,No,agent_B
+734,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,agent_A
+735,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+736,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Divorced,No,direct_recruting
+737,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+738,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,agent_C
+739,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,Yes,New_graduate_recruitment
+740,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+741,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,agent_B
+742,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+743,Travel_Frequently,Sales,Technical Degree,Female,Sales Representative,Married,No,agent_C
+744,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+745,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,agent_C
+746,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+747,Travel_Frequently,Research & Development,Other,Male,Laboratory Technician,Married,No,direct_recruting
+748,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+749,Non-Travel,Sales,Technical Degree,Female,Sales Executive,Single,Yes,New_graduate_recruitment
+750,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+751,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,No,agent_C
+752,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,agent_A
+753,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+754,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_A
+755,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+756,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Single,No,New_graduate_recruitment
+757,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,direct_recruting
+758,Travel_Frequently,Research & Development,Life Sciences,Female,Research Director,Single,Yes,New_graduate_recruitment
+759,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,New_graduate_recruitment
+760,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_C
+761,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,New_graduate_recruitment
+762,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+763,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,Yes,agent_C
+764,Travel_Rarely,Research & Development,Medical,Female,Research Director,Divorced,Yes,New_graduate_recruitment
+765,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Married,No,New_graduate_recruitment
+766,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,agent_A
+767,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,agent_C
+768,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Married,Yes,agent_A
+769,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,Yes,agent_C
+770,Travel_Rarely,Research & Development,Medical,Female,Manager,Single,No,New_graduate_recruitment
+771,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Single,Yes,intern
+772,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,agent_C
+773,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+774,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Divorced,No,agent_C
+775,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+776,Travel_Frequently,Research & Development,Life Sciences,Male,Manager,Divorced,No,New_graduate_recruitment
+777,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+778,Travel_Rarely,Sales,Medical,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+779,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+780,Travel_Frequently,Research & Development,Medical,Male,Research Director,Single,Yes,New_graduate_recruitment
+781,Non-Travel,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+782,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,Yes,New_graduate_recruitment
+783,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+784,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+785,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,agent_A
+786,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+787,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+788,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,agent_C
+789,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,agent_A
+790,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+791,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,intern
+792,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,New_graduate_recruitment
+793,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+794,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,agent_A
+795,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+796,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,agent_A
+797,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,agent_B
+798,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+799,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,intern
+800,Travel_Frequently,Human Resources,Human Resources,Female,Human Resources,Divorced,No,intern
+801,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,agent_B
+802,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+803,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,New_graduate_recruitment
+804,Travel_Frequently,Research & Development,Technical Degree,Male,Healthcare Representative,Married,No,agent_C
+805,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+806,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+807,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+808,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,Yes,direct_recruting
+809,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,agent_B
+810,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Married,No,agent_B
+811,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,New_graduate_recruitment
+812,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,intern
+813,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+814,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+815,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,agent_A
+816,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+817,Travel_Frequently,Research & Development,Technical Degree,Female,Laboratory Technician,Married,No,intern
+818,Travel_Rarely,Research & Development,Other,Male,Manager,Married,Yes,agent_A
+819,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,intern
+820,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+821,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Married,No,New_graduate_recruitment
+822,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,agent_C
+823,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,agent_B
+824,Travel_Frequently,Research & Development,Medical,Male,Research Director,Divorced,No,New_graduate_recruitment
+825,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+826,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,agent_A
+827,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,intern
+828,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,No,New_graduate_recruitment
+829,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,agent_A
+830,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Single,Yes,direct_recruting
+831,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,New_graduate_recruitment
+832,Non-Travel,Research & Development,Medical,Female,Laboratory Technician,Single,No,agent_C
+833,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,New_graduate_recruitment
+834,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,agent_A
+835,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,Yes,intern
+836,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,No,agent_A
+837,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Single,No,New_graduate_recruitment
+838,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+839,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,agent_B
+840,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+841,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+842,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,direct_recruting
+843,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,Yes,agent_B
+844,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,agent_C
+845,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,intern
+846,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+847,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,agent_B
+848,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Divorced,Yes,agent_B
+849,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_A
+850,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+851,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,agent_A
+852,Travel_Rarely,Research & Development,Medical,Female,Research Director,Married,No,New_graduate_recruitment
+853,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,New_graduate_recruitment
+854,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,agent_A
+855,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+856,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+857,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,No,agent_C
+858,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,agent_B
+859,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,intern
+860,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,agent_B
+861,Travel_Frequently,Sales,Life Sciences,Male,Sales Representative,Single,Yes,agent_C
+862,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Married,No,intern
+863,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+864,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+865,Travel_Rarely,Sales,Medical,Female,Sales Representative,Single,No,agent_A
+866,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+867,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,agent_B
+868,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,New_graduate_recruitment
+869,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+870,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+871,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Divorced,No,New_graduate_recruitment
+872,Travel_Rarely,Human Resources,Technical Degree,Male,Human Resources,Single,No,New_graduate_recruitment
+873,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+874,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+875,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,New_graduate_recruitment
+876,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+877,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,agent_B
+878,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,agent_B
+879,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_C
+880,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+881,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,agent_B
+882,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+883,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Divorced,Yes,intern
+884,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+885,Travel_Rarely,Research & Development,Medical,Female,Manager,Divorced,Yes,New_graduate_recruitment
+886,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+887,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,New_graduate_recruitment
+888,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,New_graduate_recruitment
+889,Travel_Frequently,Sales,Life Sciences,Male,Manager,Married,Yes,New_graduate_recruitment
+890,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+891,Travel_Rarely,Sales,Marketing,Male,Manager,Divorced,No,intern
+892,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Single,No,New_graduate_recruitment
+893,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+894,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,agent_C
+895,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+896,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+897,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,agent_C
+898,Travel_Rarely,Human Resources,Technical Degree,Female,Human Resources,Married,No,agent_C
+899,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,New_graduate_recruitment
+900,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+901,Travel_Frequently,Research & Development,Life Sciences,Male,Manager,Divorced,No,agent_A
+902,Non-Travel,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+903,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+904,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Divorced,No,agent_C
+905,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,agent_A
+906,Non-Travel,Research & Development,Life Sciences,Male,Manager,Married,Yes,New_graduate_recruitment
+907,Non-Travel,Sales,Technical Degree,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+908,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,agent_A
+909,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_C
+910,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_C
+911,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+912,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+913,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,New_graduate_recruitment
+914,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,New_graduate_recruitment
+915,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,agent_B
+916,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+917,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+918,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,direct_recruting
+919,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+920,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,agent_B
+921,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+922,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Married,No,New_graduate_recruitment
+923,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,agent_B
+924,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+925,Non-Travel,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,agent_B
+926,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Divorced,Yes,New_graduate_recruitment
+927,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,intern
+928,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,agent_C
+929,Non-Travel,Sales,Marketing,Female,Sales Executive,Married,No,agent_A
+930,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Single,Yes,New_graduate_recruitment
+931,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,agent_C
+932,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+933,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+934,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+935,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+936,Non-Travel,Research & Development,Medical,Male,Research Scientist,Single,Yes,agent_B
+937,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+938,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+939,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+940,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,New_graduate_recruitment
+941,Travel_Rarely,Sales,Life Sciences,Female,Manager,Divorced,No,New_graduate_recruitment
+942,Non-Travel,Sales,Life Sciences,Female,Sales Representative,Single,No,direct_recruting
+943,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,agent_A
+944,Non-Travel,Sales,Life Sciences,Male,Manager,Single,Yes,New_graduate_recruitment
+945,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+946,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,agent_A
+947,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,intern
+948,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,intern
+949,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,New_graduate_recruitment
+950,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+951,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+952,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,New_graduate_recruitment
+953,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,New_graduate_recruitment
+954,Travel_Rarely,Research & Development,Other,Male,Manufacturing Director,Married,No,direct_recruting
+955,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,agent_B
+956,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+957,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,Yes,agent_A
+958,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,No,New_graduate_recruitment
+959,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,agent_A
+960,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_A
+961,Travel_Frequently,Sales,Medical,Male,Sales Representative,Single,No,agent_A
+962,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+963,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,Yes,New_graduate_recruitment
+964,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,agent_C
+965,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,agent_A
+966,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+967,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_A
+968,Non-Travel,Research & Development,Medical,Female,Research Director,Divorced,Yes,New_graduate_recruitment
+969,Travel_Rarely,Sales,Marketing,Female,Manager,Married,Yes,agent_A
+970,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,agent_C
+971,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,New_graduate_recruitment
+972,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,direct_recruting
+973,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,intern
+974,Travel_Rarely,Sales,Medical,Female,Manager,Married,No,agent_A
+975,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,New_graduate_recruitment
+976,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+977,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+978,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+979,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,Yes,New_graduate_recruitment
+980,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+981,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+982,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Married,No,agent_A
+983,Travel_Frequently,Sales,Life Sciences,Male,Manager,Divorced,Yes,New_graduate_recruitment
+984,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,intern
+985,Travel_Frequently,Research & Development,Medical,Female,Research Director,Married,Yes,New_graduate_recruitment
+986,Non-Travel,Research & Development,Medical,Female,Research Scientist,Single,No,New_graduate_recruitment
+987,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+988,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Married,No,agent_A
+989,Travel_Rarely,Sales,Life Sciences,Male,Manager,Divorced,No,New_graduate_recruitment
+990,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+991,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+992,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+993,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,New_graduate_recruitment
+994,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+995,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,New_graduate_recruitment
+996,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+997,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+998,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,intern
+999,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,agent_A
+1000,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,New_graduate_recruitment
+1001,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,direct_recruting
+1002,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,direct_recruting
+1003,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,agent_C
+1004,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,agent_A
+1005,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,intern
+1006,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1007,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+1008,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Married,No,agent_A
+1009,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,New_graduate_recruitment
+1010,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1011,Travel_Rarely,Research & Development,Other,Male,Manufacturing Director,Married,No,direct_recruting
+1012,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,intern
+1013,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+1014,Travel_Frequently,Research & Development,Medical,Female,Manager,Single,No,agent_A
+1015,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+1016,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+1017,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+1018,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1019,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+1020,Travel_Frequently,Research & Development,Technical Degree,Female,Research Scientist,Single,No,New_graduate_recruitment
+1021,Non-Travel,Research & Development,Other,Female,Research Scientist,Married,Yes,agent_A
+1022,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_B
+1023,Non-Travel,Human Resources,Human Resources,Female,Manager,Married,No,New_graduate_recruitment
+1024,Travel_Frequently,Sales,Marketing,Male,Sales Representative,Divorced,No,intern
+1025,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Single,No,agent_A
+1026,Travel_Rarely,Research & Development,Other,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+1027,Travel_Rarely,Research & Development,Technical Degree,Female,Laboratory Technician,Married,No,agent_A
+1028,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1029,Travel_Rarely,Human Resources,Life Sciences,Male,Manager,Single,No,New_graduate_recruitment
+1030,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+1031,Travel_Frequently,Sales,Technical Degree,Male,Sales Representative,Married,No,agent_C
+1032,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,Yes,New_graduate_recruitment
+1033,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+1034,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1035,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,agent_A
+1036,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+1037,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+1038,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,Yes,agent_A
+1039,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+1040,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Divorced,Yes,direct_recruting
+1041,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,New_graduate_recruitment
+1042,Non-Travel,Sales,Medical,Male,Sales Executive,Single,No,agent_A
+1043,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+1044,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+1045,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,direct_recruting
+1046,Travel_Rarely,Sales,Medical,Male,Sales Representative,Married,No,New_graduate_recruitment
+1047,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,intern
+1048,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+1049,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+1050,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,New_graduate_recruitment
+1051,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+1052,Non-Travel,Research & Development,Medical,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+1053,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+1054,Travel_Frequently,Research & Development,Other,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+1055,Travel_Rarely,Sales,Medical,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+1056,Non-Travel,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+1057,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+1058,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+1059,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,New_graduate_recruitment
+1060,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,agent_A
+1061,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,New_graduate_recruitment
+1062,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+1063,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+1064,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,New_graduate_recruitment
+1065,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,intern
+1066,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+1067,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+1068,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+1069,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+1070,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,agent_A
+1071,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1072,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,New_graduate_recruitment
+1073,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+1074,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+1075,Travel_Frequently,Research & Development,Other,Male,Research Director,Divorced,Yes,intern
+1076,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,Yes,New_graduate_recruitment
+1077,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,direct_recruting
+1078,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1079,Non-Travel,Research & Development,Medical,Female,Research Scientist,Married,Yes,intern
+1080,Non-Travel,Research & Development,Medical,Female,Research Director,Married,No,New_graduate_recruitment
+1081,Non-Travel,Sales,Medical,Male,Manager,Divorced,No,New_graduate_recruitment
+1082,Travel_Rarely,Sales,Medical,Male,Manager,Single,No,New_graduate_recruitment
+1083,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,direct_recruting
+1084,Travel_Frequently,Research & Development,Medical,Male,Research Director,Divorced,No,intern
+1085,Travel_Rarely,Research & Development,Medical,Female,Research Director,Single,No,New_graduate_recruitment
+1086,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,intern
+1087,Travel_Frequently,Research & Development,Other,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1088,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+1089,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,New_graduate_recruitment
+1090,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,agent_B
+1091,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Divorced,No,direct_recruting
+1092,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,New_graduate_recruitment
+1093,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1094,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,intern
+1095,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1096,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+1097,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,New_graduate_recruitment
+1098,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+1099,Non-Travel,Research & Development,Medical,Female,Research Director,Married,No,agent_A
+1100,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+1101,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,direct_recruting
+1102,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+1103,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,New_graduate_recruitment
+1104,Non-Travel,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,Yes,New_graduate_recruitment
+1105,Travel_Frequently,Research & Development,Medical,Female,Healthcare Representative,Single,No,New_graduate_recruitment
+1106,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+1107,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1108,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,direct_recruting
+1109,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+1110,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1111,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+1112,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,Yes,New_graduate_recruitment
+1113,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,agent_A
+1114,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1115,Non-Travel,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,direct_recruting
+1116,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1117,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,No,New_graduate_recruitment
+1118,Travel_Rarely,Research & Development,Other,Male,Manufacturing Director,Single,No,New_graduate_recruitment
+1119,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+1120,Non-Travel,Research & Development,Life Sciences,Female,Research Director,Married,No,New_graduate_recruitment
+1121,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,New_graduate_recruitment
+1122,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Single,No,agent_C
+1123,Travel_Rarely,Sales,Medical,Female,Sales Representative,Married,No,New_graduate_recruitment
+1124,Travel_Frequently,Sales,Technical Degree,Male,Sales Representative,Single,No,direct_recruting
+1125,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+1126,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,Yes,New_graduate_recruitment
+1127,Travel_Frequently,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,agent_A
+1128,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,agent_B
+1129,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,intern
+1130,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,agent_B
+1131,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,New_graduate_recruitment
+1132,Travel_Rarely,Sales,Other,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+1133,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+1134,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,direct_recruting
+1135,Non-Travel,Sales,Marketing,Female,Sales Executive,Single,No,New_graduate_recruitment
+1136,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,Yes,agent_C
+1137,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,New_graduate_recruitment
+1138,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,intern
+1139,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1140,Travel_Rarely,Research & Development,Other,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1141,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,New_graduate_recruitment
+1142,Travel_Rarely,Human Resources,Human Resources,Female,Human Resources,Married,No,agent_C
+1143,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Divorced,No,intern
+1144,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+1145,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1146,Travel_Rarely,Sales,Other,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+1147,Non-Travel,Human Resources,Human Resources,Male,Human Resources,Married,No,intern
+1148,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,direct_recruting
+1149,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,intern
+1150,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,No,New_graduate_recruitment
+1151,Travel_Rarely,Research & Development,Medical,Female,Research Director,Married,Yes,New_graduate_recruitment
+1152,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,New_graduate_recruitment
+1153,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,agent_C
+1154,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+1155,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,agent_C
+1156,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,New_graduate_recruitment
+1157,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,agent_A
+1158,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,intern
+1159,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Single,No,New_graduate_recruitment
+1160,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+1161,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,intern
+1162,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,No,New_graduate_recruitment
+1163,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+1164,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+1165,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,agent_A
+1166,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,agent_B
+1167,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,direct_recruting
+1168,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,New_graduate_recruitment
+1169,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,intern
+1170,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+1171,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,agent_A
+1172,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,agent_C
+1173,Travel_Rarely,Sales,Other,Male,Sales Executive,Married,No,New_graduate_recruitment
+1174,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+1175,Travel_Frequently,Sales,Other,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+1176,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+1177,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,intern
+1178,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+1179,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+1180,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,New_graduate_recruitment
+1181,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+1182,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,New_graduate_recruitment
+1183,Travel_Rarely,Research & Development,Other,Female,Healthcare Representative,Single,No,New_graduate_recruitment
+1184,Travel_Rarely,Research & Development,Medical,Female,Research Director,Divorced,No,New_graduate_recruitment
+1185,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,direct_recruting
+1186,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,intern
+1187,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,agent_C
+1188,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,agent_A
+1189,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1190,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1191,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Divorced,No,New_graduate_recruitment
+1192,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+1193,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,New_graduate_recruitment
+1194,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Single,Yes,New_graduate_recruitment
+1195,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,intern
+1196,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,New_graduate_recruitment
+1197,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Divorced,No,New_graduate_recruitment
+1198,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,intern
+1199,Travel_Rarely,Research & Development,Other,Female,Healthcare Representative,Divorced,Yes,New_graduate_recruitment
+1200,Non-Travel,Research & Development,Other,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1201,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,Yes,agent_A
+1202,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1203,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,agent_C
+1204,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,No,New_graduate_recruitment
+1205,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+1206,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+1207,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,agent_A
+1208,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,direct_recruting
+1209,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+1210,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,direct_recruting
+1211,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,Yes,New_graduate_recruitment
+1212,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1213,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1214,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,agent_A
+1215,Travel_Rarely,Research & Development,Other,Male,Research Director,Married,Yes,agent_A
+1216,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_A
+1217,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,intern
+1218,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+1219,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+1220,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+1221,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,New_graduate_recruitment
+1222,Travel_Frequently,Sales,Technical Degree,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+1223,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,agent_A
+1224,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Divorced,Yes,New_graduate_recruitment
+1225,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Divorced,No,intern
+1226,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+1227,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,agent_A
+1228,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,New_graduate_recruitment
+1229,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,direct_recruting
+1230,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,intern
+1231,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,Yes,intern
+1232,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,No,New_graduate_recruitment
+1233,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+1234,Travel_Rarely,Sales,Other,Female,Sales Executive,Married,No,agent_C
+1235,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,Yes,New_graduate_recruitment
+1236,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,New_graduate_recruitment
+1237,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+1238,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,direct_recruting
+1239,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,direct_recruting
+1240,Travel_Rarely,Human Resources,Human Resources,Female,Manager,Married,No,New_graduate_recruitment
+1241,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,agent_A
+1242,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,New_graduate_recruitment
+1243,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Married,No,New_graduate_recruitment
+1244,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1245,Travel_Rarely,Sales,Medical,Male,Sales Representative,Married,No,New_graduate_recruitment
+1246,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,New_graduate_recruitment
+1247,Non-Travel,Research & Development,Technical Degree,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+1248,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,New_graduate_recruitment
+1249,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,No,agent_B
+1250,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,intern
+1251,Travel_Frequently,Sales,Other,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+1252,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,Yes,New_graduate_recruitment
+1253,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,New_graduate_recruitment
+1254,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,Yes,agent_C
+1255,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,Yes,intern
+1256,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+1257,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,New_graduate_recruitment
+1258,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,New_graduate_recruitment
+1259,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Divorced,No,agent_B
+1260,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,agent_A
+1261,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,agent_C
+1262,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Single,No,agent_C
+1263,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1264,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+1265,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,direct_recruting
+1266,Travel_Frequently,Sales,Medical,Male,Sales Executive,Divorced,No,agent_A
+1267,Non-Travel,Research & Development,Medical,Female,Research Scientist,Single,Yes,agent_B
+1268,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,New_graduate_recruitment
+1269,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1270,Travel_Rarely,Sales,Marketing,Female,Manager,Single,Yes,agent_A
+1271,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Single,No,New_graduate_recruitment
+1272,Travel_Frequently,Sales,Medical,Female,Sales Executive,Divorced,Yes,agent_C
+1273,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,agent_A
+1274,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+1275,Travel_Rarely,Sales,Life Sciences,Male,Manager,Single,No,New_graduate_recruitment
+1276,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,agent_B
+1277,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Single,No,New_graduate_recruitment
+1278,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Single,No,New_graduate_recruitment
+1279,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,direct_recruting
+1280,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,New_graduate_recruitment
+1281,Travel_Frequently,Research & Development,Other,Male,Laboratory Technician,Married,No,direct_recruting
+1282,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,agent_B
+1283,Travel_Rarely,Human Resources,Human Resources,Female,Human Resources,Married,No,New_graduate_recruitment
+1284,Travel_Rarely,Sales,Medical,Female,Sales Representative,Divorced,Yes,New_graduate_recruitment
+1285,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,New_graduate_recruitment
+1286,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,agent_C
+1287,Non-Travel,Human Resources,Life Sciences,Male,Human Resources,Divorced,No,New_graduate_recruitment
+1288,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1289,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,agent_B
+1290,Non-Travel,Research & Development,Medical,Male,Manager,Single,No,intern
+1291,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,intern
+1292,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,agent_A
+1293,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,agent_C
+1294,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,New_graduate_recruitment
+1295,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,agent_A
+1296,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,agent_A
+1297,Travel_Rarely,Sales,Life Sciences,Male,Manager,Single,No,New_graduate_recruitment
+1298,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,New_graduate_recruitment
+1299,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Single,No,agent_C
+1300,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+1301,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Single,Yes,New_graduate_recruitment
+1302,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+1303,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,New_graduate_recruitment
+1304,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,agent_A
+1305,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+1306,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,New_graduate_recruitment
+1307,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Single,Yes,intern
+1308,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Single,Yes,New_graduate_recruitment
+1309,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,New_graduate_recruitment
+1310,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+1311,Non-Travel,Sales,Other,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+1312,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+1313,Non-Travel,Research & Development,Medical,Male,Research Scientist,Single,No,agent_C
+1314,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+1315,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Married,Yes,intern
+1316,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,agent_B
+1317,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,New_graduate_recruitment
+1318,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,No,New_graduate_recruitment
+1319,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,agent_A
+1320,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+1321,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,agent_B
+1322,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,No,New_graduate_recruitment
+1323,Non-Travel,Research & Development,Medical,Male,Manager,Single,No,New_graduate_recruitment
+1324,Travel_Frequently,Research & Development,Life Sciences,Male,Research Director,Married,No,intern
+1325,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,No,New_graduate_recruitment
+1326,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,agent_A
+1327,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1328,Travel_Rarely,Research & Development,Other,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+1329,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,New_graduate_recruitment
+1330,Travel_Rarely,Human Resources,Human Resources,Male,Manager,Divorced,No,New_graduate_recruitment
+1331,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,intern
+1332,Travel_Frequently,Sales,Medical,Male,Sales Executive,Divorced,No,direct_recruting
+1333,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,New_graduate_recruitment
+1334,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,intern
+1335,Non-Travel,Human Resources,Medical,Male,Human Resources,Married,No,New_graduate_recruitment
+1336,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Single,No,New_graduate_recruitment
+1337,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,agent_C
+1338,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,No,agent_A
+1339,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,Yes,New_graduate_recruitment
+1340,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Divorced,No,New_graduate_recruitment
+1341,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,intern
+1342,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,agent_A
+1343,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Married,Yes,New_graduate_recruitment
+1344,Non-Travel,Research & Development,Medical,Male,Manager,Married,No,New_graduate_recruitment
+1345,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,New_graduate_recruitment
+1346,Travel_Rarely,Sales,Other,Male,Sales Executive,Single,No,New_graduate_recruitment
+1347,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+1348,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,New_graduate_recruitment
+1349,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,New_graduate_recruitment
+1350,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,No,New_graduate_recruitment
+1351,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,New_graduate_recruitment
+1352,Travel_Rarely,Human Resources,Medical,Male,Manager,Single,Yes,New_graduate_recruitment
+1353,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,intern
+1354,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,New_graduate_recruitment
+1355,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Married,No,New_graduate_recruitment
+1356,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,agent_A
+1357,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+1358,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Single,No,agent_A
+1359,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,intern
+1360,Travel_Rarely,Sales,Other,Female,Sales Representative,Single,No,New_graduate_recruitment
+1361,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,agent_A
+1362,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,intern
+1363,Travel_Frequently,Research & Development,Life Sciences,Male,Research Director,Married,Yes,agent_A
+1364,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,No,New_graduate_recruitment
+1365,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,intern
+1366,Travel_Frequently,Sales,Technical Degree,Female,Sales Executive,Married,No,agent_A
+1367,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,No,New_graduate_recruitment
+1368,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,New_graduate_recruitment
+1369,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Divorced,Yes,agent_B
+1370,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Divorced,Yes,New_graduate_recruitment
+1371,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,intern
+1372,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,agent_A
+1373,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+1374,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,direct_recruting
+1375,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,intern
+1376,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,agent_C
+1377,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,direct_recruting
+1378,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+1379,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,New_graduate_recruitment
+1380,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Married,No,New_graduate_recruitment
+1381,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1382,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+1383,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+1384,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Single,No,New_graduate_recruitment
+1385,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,agent_B
+1386,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,intern
+1387,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,New_graduate_recruitment
+1388,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+1389,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,Yes,direct_recruting
+1390,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,intern
+1391,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,intern
+1392,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Married,No,agent_C
+1393,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,agent_A
+1394,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+1395,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,New_graduate_recruitment
+1396,Travel_Rarely,Research & Development,Medical,Female,Manager,Divorced,No,New_graduate_recruitment
+1397,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1398,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,intern
+1399,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,intern
+1400,Travel_Rarely,Research & Development,Other,Female,Research Director,Married,No,New_graduate_recruitment
+1401,Travel_Rarely,Research & Development,Other,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+1402,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,agent_C
+1403,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,intern
+1404,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,direct_recruting
+1405,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Married,No,agent_A
+1406,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+1407,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Single,Yes,New_graduate_recruitment
+1408,Travel_Frequently,Research & Development,Medical,Male,Manager,Married,No,New_graduate_recruitment
+1409,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,No,New_graduate_recruitment
+1410,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,direct_recruting
+1411,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,New_graduate_recruitment
+1412,Non-Travel,Research & Development,Medical,Male,Healthcare Representative,Divorced,Yes,New_graduate_recruitment
+1413,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,agent_A
+1414,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,agent_A
+1415,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1416,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,No,New_graduate_recruitment
+1417,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,New_graduate_recruitment
+1418,Travel_Rarely,Sales,Life Sciences,Female,Manager,Single,No,agent_A
+1419,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1420,Travel_Frequently,Research & Development,Other,Female,Laboratory Technician,Married,No,New_graduate_recruitment
+1421,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,New_graduate_recruitment
+1422,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,direct_recruting
+1423,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,New_graduate_recruitment
+1424,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,New_graduate_recruitment
+1425,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,New_graduate_recruitment
+1426,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,intern
+1427,Travel_Frequently,Research & Development,Technical Degree,Female,Manufacturing Director,Single,No,intern
+1428,Travel_Frequently,Sales,Life Sciences,Female,Sales Representative,Single,No,New_graduate_recruitment
+1429,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Divorced,No,New_graduate_recruitment
+1430,Travel_Frequently,Research & Development,Medical,Female,Research Director,Single,No,direct_recruting
+1431,Travel_Frequently,Research & Development,Other,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+1432,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,New_graduate_recruitment
+1433,Travel_Rarely,Sales,Technical Degree,Female,Sales Representative,Single,Yes,New_graduate_recruitment
+1434,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,New_graduate_recruitment
+1435,Non-Travel,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+1436,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,New_graduate_recruitment
+1437,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1438,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Single,No,New_graduate_recruitment
+1439,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+1440,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,New_graduate_recruitment
+1441,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,New_graduate_recruitment
+1442,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+1443,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,New_graduate_recruitment
+1444,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,New_graduate_recruitment
+1445,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,New_graduate_recruitment
+1446,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Divorced,No,intern
+1447,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,No,New_graduate_recruitment
+1448,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,New_graduate_recruitment
+1449,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,No,intern
+1450,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1451,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,New_graduate_recruitment
+1452,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,Yes,intern
+1453,Travel_Frequently,Research & Development,Medical,Female,Manager,Married,No,direct_recruting
+1454,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,No,New_graduate_recruitment
+1455,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,New_graduate_recruitment
+1456,Travel_Frequently,Research & Development,Medical,Male,Manufacturing Director,Single,Yes,New_graduate_recruitment
+1457,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,agent_B
+1458,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Married,No,New_graduate_recruitment
+1459,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,New_graduate_recruitment
+1460,Travel_Rarely,Human Resources,Life Sciences,Male,Human Resources,Married,No,agent_A
+1461,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,New_graduate_recruitment
+1462,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,New_graduate_recruitment
+1463,Non-Travel,Sales,Medical,Male,Sales Executive,Married,No,New_graduate_recruitment
+1464,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,intern
+1465,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,New_graduate_recruitment
+1466,Non-Travel,Research & Development,Medical,Female,Healthcare Representative,Divorced,No,New_graduate_recruitment
+1467,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,agent_A
+1468,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Divorced,No,intern
+1469,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,Yes,New_graduate_recruitment
