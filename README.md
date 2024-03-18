@@ -1,5 +1,3 @@
 # GCI_finalHW
 
-## 참고자료
-- 1. 企業は要注意！若者の離職理由ランキングから考える7つの離職対策法
-    - address : https://www.nice2meet.us/how-we-can-maintain-good-employee-retention-rate-and-how-we-can-do-that
+![GCI FINAL HW](https://github.com/Dae-yangKim/GCI_finalHW/assets/102850893/768aee9b-c9ab-489a-980b-62e6c376542a)
