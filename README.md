@@ -21,6 +21,16 @@ GCI 데이터 사이언스 2023 Camp에서 최종심사로 실제 데이터를 �
   > Kaggle에서 얻을 수 있는 IBM사의 인사 데이터입니다.<br>
   출처 : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
+## 분석 환경
+
+| 내용 | 도구 |
+| :--: | :--: |
+| 환경 | Google Colaboratory |
+| Language | Python (3.8) |
+| 시각화 | Plotly , matplotlib , seaborn |
+| ML | Scikit-learn |
+| 데이터 처리 및 계산 | Pandas , Numpy |
+
 ## 일정
 2023년 7월 ~ 2023년 8월
 
