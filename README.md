@@ -32,10 +32,10 @@ GCI 데이터 사이언스 2023 Camp에서 최종심사로 실제 데이터를 �
 <b><font size = 4>문제 정의 , 인사이트 도출과정 , 솔루션 제공 등을 PDF 파일로 정리했습니다.</font></b>
 
 _젊은 사원들의 이탈문제에 대한 문제정의와 원인_
-<img src="/Users/kengohirano/Desktop/GCI_FinalHW/GCI_finalHW/pdf_1.png">
+<img src="/pdf_1.png">
 
 _변수 선택에 대한 설명_
-<img src="/Users/kengohirano/Desktop/GCI_FinalHW/GCI_finalHW/pdf_2.png">
+<img src="/pdf_2.png">
 
 _관계 분석 과정의 일부_
-<img src="/Users/kengohirano/Desktop/GCI_FinalHW/GCI_finalHW/pdf_3.png">
+<img src="/pdf_3.png">
